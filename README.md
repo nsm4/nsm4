@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nsm4
-- 👀 I’m interested in image & video processing technologies including codec, HDR/DV, video analytics, computer vision & ML/DL
-- 🌱 I’m currently working on hdr, learning CV/ML
+- 👀 I’m interested in image & video processing technologies including codecs, HDR/DV, video analytics, computer vision & ML/DL
+- 🌱 I’m currently working on HDR/DV, learning CV/ML
 - 💞️ I’m looking to collaborate on any vertical or E2E solutions involving: image, video processing, and CV/ML based solutions
 - 📫 How to reach me: <niranjan.s.mulay@intel.com>
 
